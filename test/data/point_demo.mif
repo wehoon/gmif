@@ -1,0 +1,17 @@
+Version 300
+Charset "WindowsSimpChinese"
+Delimiter ","
+CoordSys Earth Projection 1, 0
+Columns 4
+    id integer
+    code char(6)
+    length float
+    kind smallint
+Data
+Point 118.539272792 37.7776621352
+
+Point 118.542678952 37.8718341882
+
+Point 118.545548916 37.8076817956
+
+Point 118.547544479 37.7993319101

@@ -1,0 +1,8 @@
+---
+Language: Cpp
+BasedOnStyle: Chromium
+ColumnLimit: 100
+PointerAlignment: Left
+SortIncludes: true
+IncludeBlocks: Preserve
+...
